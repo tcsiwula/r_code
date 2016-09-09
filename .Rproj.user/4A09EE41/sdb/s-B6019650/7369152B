@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "# to do",
+    "created" : 1473386716902.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4015246489",
+    "id" : "7369152B",
+    "lastKnownWriteTime" : 1473386725,
+    "last_content_update" : 1473386725436,
+    "path" : "~/Dropbox/cs451_fall_2016/r_code/.gitignore",
+    "project_path" : ".gitignore",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "gitignore"
+}

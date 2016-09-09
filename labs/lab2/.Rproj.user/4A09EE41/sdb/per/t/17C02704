@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "library(MASS)\ninstall.packages(\"ISLR\")\nlibrary(ISLR)\n### Simple linear regression\nnames(Boston)\n?Boston\nplot(medv~lstat,Boston)\nfit1=lm(medv~lstat,data=Boston)\nfit1\nsummary(fit1)\nabline(fit1,col=\"red\")\nnames(fit1)\nconfint(fit1)\npredict(fit1,data.frame(lstat=c(5,10,15)),interval=\"confidence\")\n\n# save your plot and upload it to Canvas",
+    "created" : 1473386429777.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2625900170",
+    "id" : "17C02704",
+    "lastKnownWriteTime" : 1473258630,
+    "last_content_update" : 1473258630,
+    "path" : "~/Dropbox/cs451_fall_2016/labs/lab2/regression-partA.R",
+    "project_path" : "regression-partA.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
